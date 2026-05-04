@@ -1,0 +1,7 @@
+FechaFacturacion,cliente_id,CD,cond_pago,condicion_pago_id,material_id,combo_id,combinacion,descripcion,direccion,gerencia,nombre_sku,marca,subcategoria,unidad_negocio,agrupador,promocion,venta_umv,nr_canje,tipo_de_cliente_real,nombre_cliente_real,BK
+15/01/2026,123456,CD01,Contado,1,SKU01,,,Whisky 750ml,Zona 1,G1,Ballantines Finest Pack,Ballantines,Whisky,Licores,Venta,P1,10,700,Regular,Bodega San Luis,CD Cono Norte
+18/03/2026,123456,CD01,Contado,1,SKU02,,,Ron 750ml,Zona 1,G1,Havana Club Añejo,Havana Club,Ron,Licores,Venta,P1,8,550,Regular,Bodega San Luis,CD Cono Norte
+10/02/2026,789101,CD01,Credito,2,SKU03,,,Whisky premium,Zona 2,G1,Chivas Regal 12YO,Chivas,Whisky,Licores,Venta,P2,7,500,Regular,Licorería El Sol,CD Cono Norte
+25/03/2026,789101,CD01,Credito,2,SKU04,,,Vodka 1L,Zona 2,G1,Absolut 1000ml,Absolut,Vodka,Licores,Venta,P2,5,480,Regular,Licorería El Sol,CD Cono Norte
+05/04/2026,555555,CD02,Contado,1,SKU05,,,Gin 750ml,Zona 3,G2,Beefeater,Beefeater,Gin,Licores,Venta,P3,9,620,Regular,Market Abril,CD Centro
+12/01/2026,222222,CD03,Contado,1,SKU06,,,Ron 1L,Zona 4,G2,Bacardi Carta Blanca,Bacardi,Ron,Licores,Venta,P4,4,250,Regular,Bodega Antigua,CD Sur
